@@ -1,1 +1,1 @@
-# Project 1 - Quadratic Solver
+# Project-1 - Quadratic Solver
